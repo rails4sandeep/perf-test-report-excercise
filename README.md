@@ -61,9 +61,9 @@ Once you have Ruby on your machine
  pdf report with graphs that can showcase the metrics in a easy to read way.
  
  If more time was provided for the exercise, I would have 
- * added a logger.
- * added a better organized JSON report
- * more formats of report
- *  
+ * Added a logger instead of simple console logs
+ * Added a better organized JSON report
+ * More formats of report
+ * Better exception handling 
  
  
