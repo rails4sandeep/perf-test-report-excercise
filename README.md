@@ -1,9 +1,5 @@
 # perf-test-report-excercise
 
-I started working on this on Sunday morning which is 07 July 2019. I worked on it on and off for the 
-rest of the day. I again picked it up after coming from work. In total I spent around 8 to 10 hours on this 
-exercise. 
-
 ### Installation
 
 If you do not already have Ruby on your machine, go to http://rvm.io/ for installation
@@ -71,6 +67,11 @@ Once you have Ruby on your machine
  * More formats of report
  * Better exception handling 
  
+### Effort spent
+
+I started working on this on Sunday morning which is 07 July 2019. I worked on it on and off for the 
+rest of the day. I again picked it up on Monday some time in the morning and after coming from work. 
+In total I spent around 8 to 10 hours on this exercise. 
 
  
  
