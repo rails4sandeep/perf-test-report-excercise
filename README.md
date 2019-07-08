@@ -1,5 +1,9 @@
 # perf-test-report-excercise
 
+I started working on this on Sunday morning which is 07 July 2019. I worked on it on and off for the 
+rest of the day. I again picked it up after coming from work. In total I spent around 8 to 10 hours on this 
+exercise. 
+
 ### Installation
 
 If you do not already have Ruby on your machine, go to http://rvm.io/ for installation
@@ -60,10 +64,13 @@ Once you have Ruby on your machine
  The generated JSON format report can be used as an input to make a visual html or 
  pdf report with graphs that can showcase the metrics in a easy to read way.
  
- If more time was provided for the exercise, I would have 
+ If more time was provided for the exercise, I would have
+ * More test coverage covering exceptions and error handling 
  * Added a logger instead of simple console logs
  * Added a better organized JSON report
  * More formats of report
  * Better exception handling 
+ 
+
  
  
