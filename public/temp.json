@@ -1,0 +1,128 @@
+{
+  "samples": {
+    "login0": "50",
+    "dashboard0": "50",
+    "users0": "50",
+    "accessgroups0": "50",
+    "login1": "50",
+    "dashboard1": "50",
+    "users1": "50",
+    "accessgroups1": "50"
+  },
+  "averages": {
+    "login0": "2159",
+    "dashboard0": "64",
+    "users0": "21",
+    "accessgroups0": "22",
+    "login1": "2159",
+    "dashboard1": "64",
+    "users1": "21",
+    "accessgroups1": "22"
+  },
+  "medians": {
+    "login0": "2159",
+    "dashboard0": "64",
+    "users0": "21",
+    "accessgroups0": "22",
+    "login1": "2159",
+    "dashboard1": "64",
+    "users1": "21",
+    "accessgroups1": "22"
+  },
+  "90_percentiles": {
+    "login0": "2819",
+    "dashboard0": "131",
+    "users0": "21",
+    "accessgroups0": "20",
+    "login1": "2819",
+    "dashboard1": "131",
+    "users1": "21",
+    "accessgroups1": "20"
+  },
+  "95_percentiles": {
+    "login0": "2920",
+    "dashboard0": "136",
+    "users0": "26",
+    "accessgroups0": "27",
+    "login1": "2920",
+    "dashboard1": "136",
+    "users1": "26",
+    "accessgroups1": "27"
+  },
+  "99_percentiles": {
+    "login0": "3356",
+    "dashboard0": "176",
+    "users0": "99",
+    "accessgroups0": "99",
+    "login1": "3356",
+    "dashboard1": "176",
+    "users1": "99",
+    "accessgroups1": "99"
+  },
+  "mins": {
+    "login0": "1298",
+    "dashboard0": "14",
+    "users0": "15",
+    "accessgroups0": "13",
+    "login1": "1298",
+    "dashboard1": "14",
+    "users1": "15",
+    "accessgroups1": "13"
+  },
+  "maxs": {
+    "login0": "3356",
+    "dashboard0": "176",
+    "users0": "99",
+    "accessgroups0": "99",
+    "login1": "3356",
+    "dashboard1": "176",
+    "users1": "99",
+    "accessgroups1": "99"
+  },
+  "error_percentages": {
+    "login0": "0.000%",
+    "dashboard0": "0.000%",
+    "users0": "0.000%",
+    "accessgroups0": "0.000%",
+    "login1": "0.000%",
+    "dashboard1": "0.000%",
+    "users1": "0.000%",
+    "accessgroups1": "0.000%"
+  },
+  "throughputs": {
+    "login0": "2.01426",
+    "dashboard0": "2.19771",
+    "users0": "2.19800",
+    "accessgroups0": "2.19780",
+    "login1": "2.01426",
+    "dashboard1": "2.19771",
+    "users1": "2.19800",
+    "accessgroups1": "2.19780"
+  },
+  "received_data": {
+    "login0": "4.68",
+    "dashboard0": "4.45",
+    "users0": "4.45",
+    "accessgroups0": "4.45",
+    "login1": "4.68",
+    "dashboard1": "4.45",
+    "users1": "4.45",
+    "accessgroups1": "4.45"
+  },
+  "sent_data": {
+    "login0": "1.27",
+    "dashboard0": "0.27",
+    "users0": "0.26",
+    "accessgroups0": "0.27",
+    "login1": "1.27",
+    "dashboard1": "0.27",
+    "users1": "0.26",
+    "accessgroups1": "0.27"
+  },
+  "summary": {
+    "total_samples": 400,
+    "average_response_time": 566.5,
+    "minimum_response_time": 13,
+    "maximum_response_time": 3356
+  }
+}
